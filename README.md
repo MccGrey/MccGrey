@@ -1,4 +1,4 @@
-![MasterHead](https://www.axelerant.com/hubfs/Axelerant_December2021/Images/Frontend-Banner-Desktop.jpg)
+![MasterHead](https://raw.githubusercontent.com/preethamb97/preethamb97/2d66fcd6b470d45998ee71ab8f439d86ebad104e/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 😎, I'm Cornelius Aguonye</h1>
 <hr>
 <h3 align="center">A passionate frontend developer</h3>
