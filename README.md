@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **corneliusaguonye@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nBILnTZtOPHNTFkkquZNWEQ4aqJutw8JjmpG3aPN_d4/edit?usp=sharing](https://docs.google.com/document/d/1nBILnTZtOPHNTFkkquZNWEQ4aqJutw8JjmpG3aPN_d4/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1lR89WwhBFpce4frMdKgaHGc8iUS66GrMBNRfrWu7V00/edit?usp=sharing](https://docs.google.com/document/d/1lR89WwhBFpce4frMdKgaHGc8iUS66GrMBNRfrWu7V00/edit?usp=sharing)
 
 - ⚡ Fun fact **I can create a piece of art with my eyes closed**
 
