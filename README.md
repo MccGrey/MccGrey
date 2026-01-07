@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/browncheese6" target="blank"><img src="https://img.shields.io/twitter/follow/browncheese6?logo=twitter&style=for-the-badge" alt="browncheese6" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **RESTAPI**
 
-- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT, REACT**
 
 - 📫 How to reach me **corneliusaguonye@gmail.com**
 
