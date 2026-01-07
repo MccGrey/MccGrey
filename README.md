@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/browncheese6" target="blank"><img src="https://img.shields.io/twitter/follow/_mccgrey?logo=twitter&style=for-the-badge" alt="_mccgrey" /></a> </p>
 
-- 🌱 I’m currently learning **RESTAPI**
+- 🌱 I’m currently learning **RESTAPI, REACT NATIVE**
 
 - 💬 Ask me about **HTML, CSS, SASS, JAVASCRIPT, REACT**
 
