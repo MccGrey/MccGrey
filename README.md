@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mccgrey&label=Profile%20views&color=0e75b6&style=flat" alt="mccgrey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/browncheese6" target="blank"><img src="https://img.shields.io/twitter/follow/browncheese6?logo=twitter&style=for-the-badge" alt="browncheese6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/browncheese6" target="blank"><img src="https://img.shields.io/twitter/follow/_mccgrey?logo=twitter&style=for-the-badge" alt="_mccgrey" /></a> </p>
 
 - 🌱 I’m currently learning **RESTAPI**
 
